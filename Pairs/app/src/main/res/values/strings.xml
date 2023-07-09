@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">7 Fruits Line</string>
+    <string name="start">Start Game</string>
+    <string name="settings">Settings</string>
+    <string name="game_rules">Rules</string>
+    <string name="back_to_menu">Back to menu</string>
+    <string name="confirm">Confirm</string>
+    <string name="reset_balance">Reset Balance</string>
+    <string name="exit_game">Exit Game</string>
+    <string name="claim">Get: </string>
+    <string name="try_again">Try Again</string>
+    <string name="try_to_multiply">Try to Multiply</string>
+    <string name="main_menu">Main Menu</string>
+    <string name="find_multipliers">Find 3 same multipliers! You have 5 attempts</string>
+    <string name="main_rule">7 Fruits Line! The rules of the game are simple. In front of you are 30 cards. You have to find all same cards on the time.</string>
+    <string name="difficulty_rule">The game contains 3 difficulties - Low, Medium and Hard. The differences between them in amount of time that you have to find all pairs. And also - higher difficulty means higher reward.</string>
+    <string name="lottery_rule">You can also try your luck and play lottery after you won. You will have 9 cards in front of you. You have total of 5 attempts to find 3 same multipliers. If you found them - you reward multiplies by this amount. But be careful, if you will not find them - you lose your reward</string>
+</resources>
